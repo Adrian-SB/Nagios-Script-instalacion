@@ -8,4 +8,4 @@ Los siguientes scripts han sido provados en Debian 9 mediante máquinas virtuale
 
 - nagios-plugins + nrpe: instala varios plugins necesarios junto con el plugin nrpe (clientes)
 
--nrpe: instala el plugin nrpe, este plugin sirve para monitorizar los equipos conectados en el servidor nagios. 
+- nrpe: instala el plugin nrpe, este plugin sirve para monitorizar los equipos conectados en el servidor nagios. 
